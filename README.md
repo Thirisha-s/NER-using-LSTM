@@ -39,8 +39,8 @@ Display predictions or plot loss curves.
 
 
 ## PROGRAM
-### Name: Yogeshvar M
-### Register Number: 212222230180
+### Name: THIRISHA S
+### Register Number: 212222230160
 ```python
 class BiLSTMTagger(nn.Module):
   def __init__(self, vocab_size, tagset_size, embedding_dim = 50, hidden_dim = 100):
